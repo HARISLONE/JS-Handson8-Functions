@@ -1,0 +1,99 @@
+#name{
+    display: inline-block;
+    border: 4px;
+    margin-left: 30%;
+    background-color: red;
+    color: snow;
+}
+.ques1{
+    border: 4px dashed red;
+    background-color: aqua;
+}
+.output{
+    font-size: 25px;
+    background-color: black;
+    color: snow;
+    display: inline-block;
+    width: 485px;
+    height: 90px;
+    margin-left: 60px;
+}
+.ques2{
+    border: 4px dashed black;
+    background-color: rgba(255, 0, 255, 0.505);
+}
+.output1{
+    font-size: 25px;
+    background-color: black;
+    color: snow;
+    display: inline-block;
+    width: 370px;
+    height: 100px;
+    margin-left: 60px;
+}
+
+.ques3{
+    border: 4px dashed black;
+    background-color: rgba(255, 55, 0, 0.505);
+}
+.output2{
+    font-size: 25px;
+    background-color: black;
+    color: snow;
+    display: inline-block;
+    width: 450px;
+    height: 85px;
+    margin-left: 60px;
+}
+.ques4{
+    border: 4px dashed black;
+    background-color: rgba(21, 255, 0, 0.505);
+}
+.output3{
+    font-size: 25px;
+    background-color: black;
+    color: snow;
+    display: inline-block;
+    width: 330px;
+    height: 85px;
+    margin-left: 60px;
+}
+.ques5{
+    border: 4px dashed black;
+    background-color: rgba(0, 255, 251, 0.505);
+}
+.output4{
+    font-size: 25px;
+    background-color: black;
+    color: snow;
+    display: inline-block;
+    width: 330px;
+    height: 100px;
+    margin-left: 60px;
+}
+.ques6{
+    border: 4px dashed black;
+    background-color: rgba(255, 0, 208, 0.582);
+}
+.output5{
+    font-size: 25px;
+    background-color: black;
+    color: snow;
+    display: inline-block;
+    width: 330px;
+    height: 100px;
+    margin-left: 60px;
+}
+.ques7{
+    border: 4px dashed black;
+    background-color: rgba(111, 0, 255, 0.505);
+}
+.output6{
+    font-size: 25px;
+    background-color: black;
+    color: snow;
+    display: inline-block;
+    width: 535px;
+    height: 85px;
+    margin-left: 60px;
+}
